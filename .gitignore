@@ -1,6 +1,7 @@
-*.i
-*.ii
-*.gpu
-*.ptx
-*.cubin
-*.fatbin
+.DS_Store
+
+## eclipse
+.cproject
+.project
+
+*.o
